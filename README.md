@@ -10,15 +10,11 @@ El trabajo de grado llamado: Manual teórico-práctico de aprendizaje profundo a
 * Aprendizaje por refuerzo
 * Segmentacion de imagenes
 
-## Tecnologias 📦
+## Tecnologias
 
 Se implementaron diversas tecnologias en el entorno de **Python**, usando varias librerias, como lo son:
 * CV2
 * numpy
-
-```
-Da un ejemplo
-```
 
 ## Documento 📖
 
@@ -33,6 +29,9 @@ _Este proyecto se realizo con la tutoria de
 
 Este proyecto es de libre uso 
 
-
+## Imagenes
+<img src="https://github.com/MaickMos/MaickMos/blob/master/Banner.png" align="center" alt=" Banner header image">
+<img src="https://github.com/MaickMos/MaickMos/blob/master/Banner.png" align="center" alt=" Banner header image">
+<img src="https://github.com/MaickMos/MaickMos/blob/master/Banner.png" align="center" alt=" Banner header image">
 ---
 By [Maick](https://github.com/Maickmos) 😊
